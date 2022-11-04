@@ -1,61 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3465cf90-f3af-40f7-9226-048e089c333e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mytask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Booard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Maark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Plaayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe/Plaayer2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/airCondition/AirCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/airCondition/AirConditionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/collections/Baby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/collections/Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/collections/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/collections/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter16/collections/SemicolonNative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/BiPredicateSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/Function/FunctionSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/Operator/UnaryOperatorSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/biConsumer/BiComsumerSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/biFunction/BiFunctionSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/binaryOperator/BinaryOperatorSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/consumer/ConsumerSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/predicate/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/predicate/PredicateSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/stream/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/stream/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/stream/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/supplier/Suppliersample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/ComplexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/Time1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise8_18/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise8_18/Mark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise8_18/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise8_18/TicTacToeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headFirst/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headFirst/FlyTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headFirst/Jet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queue/Intq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/socketProgramming/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/socketProgramming/SockerServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/socketProgramming/socketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/PersonStack.java" afterDir="false" />
+    <list default="true" id="3465cf90-f3af-40f7-9226-048e089c333e" name="Changes" comment="new code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/stream/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/stream/Example4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,22 +32,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="exercise8_18" />
@@ -210,8 +159,16 @@
       <workItem from="1667399038566" duration="212000" />
       <workItem from="1667412962024" duration="387000" />
       <workItem from="1667505587161" duration="61000" />
-      <workItem from="1667551524996" duration="19228000" />
+      <workItem from="1667551524996" duration="20223000" />
     </task>
+    <task id="LOCAL-00001" summary="new code">
+      <created>1667575198694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667575198694</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,5 +184,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new code" />
+    <option name="LAST_COMMIT_MESSAGE" value="new code" />
   </component>
 </project>
