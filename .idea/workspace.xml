@@ -1,9 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3465cf90-f3af-40f7-9226-048e089c333e" name="Changes" comment="new code">
+    <list default="true" id="6404786a-3c7f-4432-a4d8-495c3ff03f68" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/Lambda/MyfunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/Lambda/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/Lambda/book/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/Lambda/book/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/Lambda/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/Lambda/calculator/CalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/dataCollections/TheArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/dataCollections/WorkingWith2DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/dataCollections/WorkingWithLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/dataCollections/WorkingWithQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/dataCollections/WorkingWithSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/dataCollections/WorkingWithStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/dataCollections/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/Nokia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/Nokia/Nokia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example10/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example11/Exercise11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example12/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example13/example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example14/Example14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example15/Example15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example15/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example16/Example16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example5/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example6/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example7/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example8/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example8/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example9/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/groupWork/DigitLenghtException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/groupWork/HugeInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/groupWork/maxMin/Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/groupWork/maxMin/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/groupWork/maxMin/MaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/groupWork/maxMin/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/socketProgramming/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/twoSum/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timmy/optional/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/unicorns/hareAndTortoise/RaceCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/unicorns/hareAndTortoise/RaceSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/unicorns/hareAndTortoise/enums/AnimalMovement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/unicorns/hareAndTortoise/enums/HareMovement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/unicorns/hareAndTortoise/enums/IjapaMovement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/unicorns/hareAndTortoise/enums/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/unicorns/hareAndTortoise/enums/animals/Hare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/unicorns/hareAndTortoise/enums/animals/Tortise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/unicorns/hareAndTortoise/RaceSimulatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/groupWork/HugeIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/stream/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter17/functionalInterface/stream/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mytask.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicTacToe/Booard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/TicTacToe/Booard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicTacToe/Maark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/TicTacToe/Maark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicTacToe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/TicTacToe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicTacToe/Plaayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/TicTacToe/Plaayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicTacToe/Plaayer2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/TicTacToe/Plaayer2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/airCondition/AirCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/airCondition/AirCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/airCondition/AirConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/airCondition/AirConditionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter16/collections/Baby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/collections/Baby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter16/collections/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/collections/Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter16/collections/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/collections/CollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter16/collections/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/collections/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter16/collections/SemicolonNative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/collections/SemicolonNative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/BiPredicateSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/biPredicate/BiPredicateSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/Function/FunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/Function/FunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/Operator/UnaryOperatorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/Operator/UnaryOperatorSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/biConsumer/BiComsumerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/biConsumer/BiComsumerSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/biFunction/BiFunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/biFunction/BiFunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/binaryOperator/BinaryOperatorSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/binaryOperator/BinaryOperatorSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/consumer/ConsumerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/consumer/ConsumerSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/predicate/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/predicate/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/predicate/PredicateSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/predicate/PredicateSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/stream/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example1/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/stream/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example2/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/stream/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example3/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/stream/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/stream/example4/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter17/functionalInterface/supplier/Suppliersample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/functionalInterface/supplier/Suppliersample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8/Complex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/chapter8/Complex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8/ComplexTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/chapter8/ComplexTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/chapter8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8/Time1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/chapter8/Time1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise8_18/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise8_18/Mark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/Mark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise8_18/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise8_18/TicTacToeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ticTacToe/TicTacToeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headFirst/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/headFirst/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headFirst/FlyTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/headFirst/FlyTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headFirst/Jet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/headFirst/Jet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/queue/Intq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/queue/Intq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/queue/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/socketProgramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/socketProgramming/SockerServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/socketProgramming/SockerServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/socketProgramming/socketClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/socketProgramming/socketClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/stack/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/stack/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/PersonStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timmy/exercise8_18/stack/PersonStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +113,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
-        <option value="JUnit5 Test Class" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -26,51 +124,34 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FPm7NWr4pdtxaywoq8egtdw8JX" />
+  <component name="ProjectId" id="2KPZvxyRgruBRqubZK08Iw76hpY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "true",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "jdk.selected.JAVA_MODULE": "18",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cloud/IdeaProjects/E-voting-App&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="exercise8_18" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="chapter16.collections" />
-      <recent name="airCondition" />
-      <recent name="chapter8" />
-      <recent name="TicTacToa" />
-      <recent name="exercise8_18" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Example3">
-    <configuration name="BinaryOperatorSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter17.functionalInterface.binaryOperator.BinaryOperatorSample" />
-      <module name="mytask" />
+}</component>
+  <component name="RunManager" selected="Application.BookService">
+    <configuration name="BookService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.timmy.Lambda.book.BookService" />
+      <module name="myTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter17.functionalInterface.binaryOperator.*" />
+          <option name="PATTERN" value="com.timmy.Lambda.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter17.functionalInterface.stream.Example1" />
-      <module name="mytask" />
+    <configuration name="CalculatorImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.timmy.Lambda.calculator.CalculatorImpl" />
+      <module name="myTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter17.functionalInterface.stream.*" />
+          <option name="PATTERN" value="com.timmy.Lambda.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter17.functionalInterface.stream.Example2" />
-      <module name="mytask" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.timmy.optional.Main" />
+      <module name="myTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter17.functionalInterface.stream.*" />
+          <option name="PATTERN" value="com.timmy.optional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter17.functionalInterface.stream.Example3" />
-      <module name="mytask" />
+    <configuration name="WorkingWithQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.timmy.dataCollections.WorkingWithQueue" />
+      <module name="myTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter17.functionalInterface.stream.*" />
+          <option name="PATTERN" value="com.timmy.dataCollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnaryOperatorSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter17.functionalInterface.Operator.UnaryOperatorSample" />
-      <module name="mytask" />
+    <configuration name="com.timmy.exercise8_18.Nokia.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.timmy.exercise8_18.Nokia.Main" />
+      <module name="myTask" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter17.functionalInterface.Operator.*" />
+          <option name="PATTERN" value="com.timmy.exercise8_18.Nokia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,43 +213,34 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example3" />
-        <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.BinaryOperatorSample" />
-        <item itemvalue="Application.UnaryOperatorSample" />
+        <item itemvalue="Application.BookService" />
+        <item itemvalue="Application.CalculatorImpl" />
+        <item itemvalue="Application.com.timmy.exercise8_18.Nokia.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.WorkingWithQueue" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3465cf90-f3af-40f7-9226-048e089c333e" name="Changes" comment="" />
-      <created>1664401930930</created>
+      <changelist id="6404786a-3c7f-4432-a4d8-495c3ff03f68" name="Changes" comment="" />
+      <created>1673878418946</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664401930930</updated>
-      <workItem from="1664401932701" duration="18174000" />
-      <workItem from="1664825642839" duration="1037000" />
-      <workItem from="1664872844878" duration="28446000" />
-      <workItem from="1665046407260" duration="17096000" />
-      <workItem from="1665473121849" duration="17551000" />
-      <workItem from="1666876152032" duration="30000" />
-      <workItem from="1667298713035" duration="22683000" />
-      <workItem from="1667398747377" duration="170000" />
-      <workItem from="1667399038566" duration="212000" />
-      <workItem from="1667412962024" duration="387000" />
-      <workItem from="1667505587161" duration="61000" />
-      <workItem from="1667551524996" duration="20223000" />
+      <updated>1673878418946</updated>
+      <workItem from="1673878422954" duration="1451000" />
+      <workItem from="1675025884107" duration="1275000" />
+      <workItem from="1675619321613" duration="177000" />
+      <workItem from="1675708851553" duration="17664000" />
+      <workItem from="1676534513170" duration="3816000" />
+      <workItem from="1676917553172" duration="2313000" />
+      <workItem from="1677245721148" duration="5090000" />
+      <workItem from="1677751234860" duration="5368000" />
+      <workItem from="1678188739214" duration="7061000" />
+      <workItem from="1678267399204" duration="709000" />
+      <workItem from="1678977193475" duration="834000" />
     </task>
-    <task id="LOCAL-00001" summary="new code">
-      <created>1667575198694</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1667575198694</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,9 +256,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="new code" />
-    <option name="LAST_COMMIT_MESSAGE" value="new code" />
   </component>
 </project>
